@@ -45,3 +45,7 @@ console.log(num1 === num2);
  const variableB = "Hello";
  console.log(variableA == variableB);
  console.log(variableA === variableB);
+
+
+
+ 
