@@ -19,7 +19,7 @@ const gamesName = ['PUBG','Candy Crush','Temple Run','Ludo',];
 gamesName[2] = "Subway Surfer";
 console.log(gamesName);
 
-
+//undefined
 const inTable = ['Pen','Pencil','Shapner','Watch','Mobile'];
 const seventh = inTable[7];
 console.log(seventh);
